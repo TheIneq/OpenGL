@@ -1,0 +1,12 @@
+### OGL ###
+libs/*
+build/*
+src/engine/shaders/*.spv
+
+### JETBRAINS ###
+.idea
+.idea/*
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
